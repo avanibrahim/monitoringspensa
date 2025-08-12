@@ -6,7 +6,7 @@ import Home from '@/pages/Home';
 import Contact from '@/pages/Contact';
 import IrigasiTetes from '@/pages/IrigasiTetes';
 import Hidroponik from '@/pages/Hidroponik';
-import Berandairigasi from '@/pages/BerandaIrigasi';
+import BerandaIrigasi from '@/pages/BerandaIrigasi';
 // import Monitoring from '@/pages/Monitoring'; // kalau mau, silakan aktifkan
 
 function App() {
