@@ -384,32 +384,6 @@ const BerandaIrigasi = () => {
                         alt="Kegiatan 1"
                         className="w-64 h-48 object-cover rounded-lg"
                       />
-                      <img
-                        src="/images/kegiatan-2.jpg"
-                        alt="Kegiatan 2"
-                        className="w-64 h-48 object-cover rounded-lg"
-                      />
-                      <img
-                        src="/images/kegiatan-3.jpg"
-                        alt="Kegiatan 3"
-                        className="w-64 h-48 object-cover rounded-lg"
-                      />
-                      {/* Duplikasi untuk looping */}
-                      <img
-                        src="/images/kegiatan-1.jpg"
-                        alt="Kegiatan 1"
-                        className="w-64 h-48 object-cover rounded-lg"
-                      />
-                      <img
-                        src="/images/kegiatan-2.jpg"
-                        alt="Kegiatan 2"
-                        className="w-64 h-48 object-cover rounded-lg"
-                      />
-                      <img
-                        src="/images/kegiatan-3.jpg"
-                        alt="Kegiatan 3"
-                        className="w-64 h-48 object-cover rounded-lg"
-                      />
                     </div>
                   </div>
                 </section>
