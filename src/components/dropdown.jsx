@@ -20,7 +20,7 @@ function DropdownMenu() {
       {open && (
         <div className="ml-6 mt-1 space-y-1">
           <Link
-            to="/monitoring/irigasi-tetes"
+            to="/monitoring/irigasitetes"
             className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 rounded-md"
           >
             Irigasi Tetes
