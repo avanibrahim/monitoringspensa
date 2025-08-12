@@ -195,7 +195,7 @@ const mappedData = isLive
             Tanaman: <strong>Cabai</strong> | Metode: <strong>Irigasi Tetes Otomatis</strong>
           </p>
           <div className="flex justify-center mt-4 gap-4">
-            <Link to="/Berandairigasi">
+            <Link to="/BerandaIrigasi">
               <button className="px-6 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition">
                 Masuk ke Beranda Irigasi
               </button>
