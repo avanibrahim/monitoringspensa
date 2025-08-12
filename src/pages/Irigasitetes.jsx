@@ -22,7 +22,7 @@ function parseNumber(value) {
   return typeof value === "number" ? value : 0;
 }
 
-const Irigasitetes = () => {
+const IrigasiTetes = () => {
   const [isLive, setIsLive] = useState(false);
   const [dummyData, setDummyData] = useState([]);
   const [reloadFlag, setReloadFlag] = useState(0);
@@ -245,4 +245,4 @@ const mappedData = isLive
   );
 };
 
-export default Irigasitetes;
+export default IrigasiTetes;
