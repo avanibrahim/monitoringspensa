@@ -18,7 +18,7 @@ import {
 import { Button } from '@/components/ui/button';
 import HeaderIrigasi from '@/components/HeaderIrigasi';
 
-const Berandairigasi = () => {
+const BerandaIrigasi = () => {
   const [showButton, setShowButton] = useState(false);
 
   useEffect(() => {
@@ -431,4 +431,4 @@ const Berandairigasi = () => {
   );
 };
 
-export default Berandairigasi;
+export default BerandaIrigasi;
